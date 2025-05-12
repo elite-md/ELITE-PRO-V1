@@ -26,7 +26,7 @@
 - Click on **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
 - Click here to get **[SESSION_ID](https://elitepro-session-id.onrender.com/)**
 - Uploading session_id (Creds.json) in session folder.
-- Edit settings.js to your preference
+- Edit Config.js or .env to your Choice.
 
 ---
 

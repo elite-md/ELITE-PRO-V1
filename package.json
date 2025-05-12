@@ -50,6 +50,7 @@
     "yt-search": "^2.10.4",
     "@vitalets/google-translate-api": "^9.2.0",
     "google-tts-api": "^2.0.2",
-    "node-cache": "^5.1.2"
+    "node-cache": "^5.1.2",
+    "dotenv": "^16.4.5"
   }
 }
